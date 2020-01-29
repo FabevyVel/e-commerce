@@ -81,3 +81,34 @@
     padding: 6px 17px;
     font-size: 11px;
 }
+
+.pro-detail {}
+
+.pro-detail h4 {}
+
+.pro-detail h4 a {
+    font-size: 11px;
+    font-weight: bold;
+    color: #000;
+}
+
+.pro-detail h4 a:hover {
+    color: red;
+}
+
+.pro-detail p {
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(217, 18, 31);
+}
+
+.btn-cart {
+    border: solid 1px #cacaca;
+    font-size: 13px;
+    border-radius: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1.2px;
+}
+
+.section-title {}
